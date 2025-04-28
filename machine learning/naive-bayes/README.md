@@ -39,8 +39,15 @@ The following preprocessing steps were applied:
 * Dropped irrelevant columns: RowNumber, CustomerId, Surname, and Gender
 * Encoded the Geography (categorical) column into numerical format
 * Engineered a new feature called Loyalty, calculated as:
-  Loyalty = Tenure / Age
-* applied normalization
+
+  $$Loyalty = \frac{Tenure}{Age}$$
+
+* as I engineered a new feature `loyalty` therefore `Tenure and Age` are dropped
+
+* applied Min-Max Scaler:
+I used a function called `MinMaxScaler`, which we'll import from the `sklearn.preprocessing` module. `MinMaxScaler` normalizes each column so every value falls in the range of [0, 1]. The column's maximum value would scale to 1, and its minimum value would scale to 0. Everything else would fall somewhere between. This is the formula:
+
+$${x_{scaled}} = \frac{x - x_{min}}{x_{max} - x_{min}}$$ 
 
 ## ⚖️ Handling Imbalanced Data
 The dataset is moderately imbalanced (~80% stayed vs. ~20% churned).
