@@ -7,18 +7,6 @@ Welcome to my repository! This space documents my hands-on learning journey acro
 
 Each folder contains real-world case studies, model implementations, and insights I've gathered while exploring these powerful techniques. Most projects include `.py` scripts and Jupyter Notebooks, and the exploratory data analysis (EDA) for each case can be found in the respective subfolder's `README.md`.
 
----
-
-## 📂 Repository Structure
-
-my-ai-journey/ │ ├── machine-learning-cases/ │ ├── churn-prediction/ │ ├── customer-segmentation/ │ └── ... │ ├── deep-learning-cases/ │ ├── image-classification/ │ ├── sentiment-analysis/ │ └── ... │ └── README.md ← (this file)
-
-yaml
-Copy
-Edit
-
----
-
 ## 🎯 Focus
 
 This repository is meant to:
