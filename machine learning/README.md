@@ -1,7 +1,7 @@
 # 🤖 Machine Learning Cases
 This folder showcases a variety of machine learning use cases implemented using Python scripts. Each case focuses on a different algorithm or modeling approach, highlighting practical applications of machine learning techniques to solve real-world problems.
 
-##🎯 Objective
+## 🎯 Objective
 To demonstrate the application of various machine learning models and approaches, covering both supervised and unsupervised learning tasks. These cases serve as a portfolio of my hands-on experience and problem-solving skills using core ML concepts.
 
 ## 🧩 What's Included
