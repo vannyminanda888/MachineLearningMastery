@@ -31,12 +31,12 @@ The dataset used is Invistico_Airline.csv, containing features such as:
 
 ## 🤖 Modeling & Results
 #### 🔍 Models Built:
-* Decision Tree with Cross-Validation
+* Random Forest without CV
 * Random Forest with GridSearchCV for Hyperparameter Tuning
 
 ## 🏁 Results:
 After training and evaluating multiple models, here's how they stacked up:
-### 🌳 Decision Tree with Cross-Validation:
+### 🌳 Random Forest without Hyperparameter:
 Accuracy: 94% — solid and interpretable, but room for improvement.
 ### 🌲🌲 Random Forest with GridSearchCV:
 Accuracy: 95% — a clear winner! Thanks to ensemble learning and proper hyperparameter tuning, performance improved while maintaining generalization.
