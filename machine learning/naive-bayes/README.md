@@ -60,6 +60,6 @@ Precision: 0.544
 Recall: 0.303
 F1 Score: 0.389
 
-![Diagram](images/dataset_preview.png)
+![Diagram](images/cm.png)
 
 All of our model metrics can be derived from the confusion matrix, and each metric tells its own part of the story. What stands out most in the confusion matrix is that the model misses a lot of customers who will churn. In other words, there are a lot of false negatives—355, to be exact. This is why our recall score is only 0.303.
