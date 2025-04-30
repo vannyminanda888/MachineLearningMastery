@@ -51,6 +51,9 @@ $${x_{scaled}} = \frac{x - x_{min}}{x_{max} - x_{min}}$$
 
 ## ⚖️ Handling Imbalanced Data
 The dataset is moderately imbalanced (~80% stayed vs. ~20% churned).
+
+![Diagram](images/dist.png)
+
 Since Naive Bayes predictions rely on class priors (P(c)), applying techniques like oversampling or undersampling would distort these natural priors.
 For this reason, I retained the original class distribution and did not apply any balancing methods.
 
