@@ -19,15 +19,15 @@ To demonstrate the application of various machine learning models and approaches
 
 Example:
 ```
-machine-learning/naive-bayes/
+machine-learning/
 │
-├── churn-prediction/
+├── naive-bayes/churn-prediction/
 │   ├── model.py
 │   └── README.md  ← includes EDA & case background
 │
-├── customer-segmentation/
-│   ├── kmeans_model.py
-│   └── README.md
+├── decision-tree/customer-segmentation/
+│   ├── model.py
+│   └── README.md ← includes EDA & case background
 │
 └── README.md  ← (this file)
 ```
