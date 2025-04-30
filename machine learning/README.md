@@ -19,7 +19,7 @@ To demonstrate the application of various machine learning models and approaches
 
 Example:
 ```
-machine-learning-cases/
+machine-learning/naive-bayes/
 │
 ├── churn-prediction/
 │   ├── model.py
