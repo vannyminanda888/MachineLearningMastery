@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
+
+
 # 🚀 My AI Learning Journey
 
 Welcome to my repository! This space documents my hands-on learning journey across two major fields of Artificial Intelligence:
