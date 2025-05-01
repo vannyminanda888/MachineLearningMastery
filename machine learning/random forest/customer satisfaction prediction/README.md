@@ -36,11 +36,13 @@ The dataset used is Invistico_Airline.csv, containing features such as:
 
 ## 🏁 Results:
 After training and evaluating multiple models, here's how they stacked up:
-### 🌳 Random Forest without Hyperparameter:
-Accuracy: 94% — solid and interpretable, but room for improvement.
-### 🌲🌲 Random Forest with GridSearchCV:
-Accuracy: 95% — a clear winner! Thanks to ensemble learning and proper hyperparameter tuning, performance improved while maintaining generalization.
-This shows how combining GridSearchCV with powerful ensemble methods can push your model from good to great.
 
+### 🌳 Random Forest without Hyperparameter Tuning:
+Accuracy: 95.7% — This looks impressive at first glance. However, it's important to note that this result might be overly optimistic, possibly due to the test set being particularly well-suited for this model by chance. Without cross-validation, the performance may not be as reliable across different data splits.
+
+### 🌲🌲 Random Forest with GridSearchCV:
+Accuracy: 94.2% — Although slightly lower in raw accuracy, this model is more stable and representative of true performance. By incorporating cross-validation and hyperparameter tuning, this model is better equipped to generalize to unseen data, making it the more trustworthy of the two.
+
+#### 🔍 Key takeaway: Sometimes, higher accuracy doesn't mean better performance. A well-tuned model with cross-validation provides a more robust and dependable benchmark, even if the raw score appears slightly lower.
 
 
