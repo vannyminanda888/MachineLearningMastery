@@ -1,6 +1,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/vannyminanda888/MachineLearningMastery)
 
 
 # 🚀 My AI Learning Journey
