@@ -1,7 +1,8 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/vannyminanda888/MachineLearningMastery)
+![GitHub repo size](https://img.shields.io/github/repo-size/vannyminanda888/MachineLearningMastery)
+![GitHub stars](https://img.shields.io/github/stars/vannyminanda888/MachineLearningMastery?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vannyminanda888/MachineLearningMastery?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/vannyminanda888/MachineLearningMastery)
+![GitHub license](https://img.shields.io/github/license/vannyminanda888/MachineLearningMastery)
 
 
 # 🚀 My AI Learning Journey
