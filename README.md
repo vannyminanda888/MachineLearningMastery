@@ -12,7 +12,7 @@ Welcome to my repository! This space documents my hands-on learning journey acro
 - 🤖 **Machine Learning Algorithms**
 - 🧠 **Deep Learning Algorithms**
 
-Each folder contains real-world case studies, model implementations, and insights I've gathered while exploring these powerful techniques. Most projects include `.py` scripts and Jupyter Notebooks, and the exploratory data analysis (EDA) for each case can be found in the respective subfolder's `README.md`.
+Each folder contains real-world case studies, my model implementations, and insights I've gathered while exploring these powerful techniques. Most projects include `.py` scripts and Jupyter Notebooks, and the exploratory data analysis (EDA) for each case can be found in the respective subfolder's `README.md`.
 
 ## 🎯 Focus
 
